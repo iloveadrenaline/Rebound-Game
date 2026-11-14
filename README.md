@@ -2,6 +2,9 @@
 
 A 2D pixel-art platformer made by me and my team using Godot 4.7. Created for the **Haven Focșani Hackathon**, in Vrancea, Romania.
 
+<img width="1598" height="887" alt="WhatsApp Image 2026-11-14 at 17 10 16(1)" src="https://github.com/user-attachments/assets/9c153881-5024-4c5e-aa11-0d3d60d97600" />
+
+
 ---
 
 ## Overview
