@@ -37,20 +37,6 @@ The game is made using **Godot Engine 4.7**.
 3. Collect as many coins as possible.
 4. Reach the end of the level!
 
-## Repository Structure
-
-```text
-Slime-and-Shine/
-├── README.md
-├── project.godot
-├── assets/
-│   ├── sprites/
-│   ├── tilesets/
-│   └── audio/
-├── scenes/
-├── scripts/
-└── exports/
-```
 
 ## Credits
 
